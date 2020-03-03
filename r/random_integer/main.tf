@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    random = ">= 2.2.0"
+    random = ">= 2.2.1"
   }
 }
 
